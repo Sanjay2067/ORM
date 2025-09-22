@@ -43,7 +43,7 @@ class caradmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-![alt text](EXP2.png)
+![EXP2 OUTPUT](https://github.com/user-attachments/assets/ff34e493-d24f-4612-85bd-5ec1973b16c5)
 
 
 ## RESULT
